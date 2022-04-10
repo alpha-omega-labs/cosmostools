@@ -1,0 +1,17 @@
+{
+  "name": "cosmostools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bech32": "^2.0.0",
+    "split": "^1.0.1",
+    "web3-utils": "^1.7.3"
+  }
+}
